@@ -2,6 +2,10 @@
 
 Advanced pose estimation and keypoint extraction for video analysis.
 
+<p align="center">
+  <img src="main.png" alt="MediaPipe Pose App - Main Screen" width="80%">
+</p>
+
 ## Quick Start
 
 ### 1. Install Dependencies
@@ -15,6 +19,9 @@ pip install -r requirements_mediapipe.txt
 
 ### 3. Access
 Open browser at `http://localhost:8501`
+
+## Screenshots
+<p align="center"> <img src="img1.png" alt="Camera 1 - Pose overlay" width="32%"> <img src="img2.png" alt="Camera 2 - Pose overlay" width="32%"> <img src="img3.png" alt="Camera 3 - Pose overlay" width="32%"> </p>
 
 ## Usage
 
