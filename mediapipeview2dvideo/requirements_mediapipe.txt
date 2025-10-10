@@ -1,0 +1,16 @@
+# MediaPipe Pose Estimation App Requirements
+
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Computer vision & MediaPipe
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Web app framework
+streamlit>=1.28.0
+
+# Optional: for better video handling
+opencv-contrib-python>=4.8.0
+
